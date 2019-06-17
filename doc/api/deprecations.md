@@ -2481,7 +2481,7 @@ is deprecated. This deprecation applies to users of the
 ### DEP0XXX: worker.terminate() with callback
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v12.5.0
     pr-url: https://github.com/nodejs/node/pull/28021
     description: Runtime deprecation.
 -->

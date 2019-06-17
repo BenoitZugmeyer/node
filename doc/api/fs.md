@@ -733,7 +733,7 @@ milliseconds since the POSIX Epoch.
 
 ### stats.atimeNs
 <!-- YAML
-added: REPLACEME
+added: v12.5.0
 -->
 
 * {bigint}
@@ -745,7 +745,7 @@ nanoseconds since the POSIX Epoch.
 
 ### stats.mtimeNs
 <!-- YAML
-added: REPLACEME
+added: v12.5.0
 -->
 
 * {bigint}
@@ -757,7 +757,7 @@ nanoseconds since the POSIX Epoch.
 
 ### stats.ctimeNs
 <!-- YAML
-added: REPLACEME
+added: v12.5.0
 -->
 
 * {bigint}
@@ -769,7 +769,7 @@ in nanoseconds since the POSIX Epoch.
 
 ### stats.birthtimeNs
 <!-- YAML
-added: REPLACEME
+added: v12.5.0
 -->
 
 * {bigint}
